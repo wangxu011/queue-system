@@ -9,7 +9,7 @@
   "dependencies": {
     "@types/js-cookie": "^2.2.4",
     "@types/qs": "^6.9.0",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "core-js": "^3.4.4",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
